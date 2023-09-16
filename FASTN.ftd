@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: __user_name__.github.io/__repo_name__
-favicon: /-/__user_name__.github.io/__repo_name__/favicon.ico
+-- fastn.package: s23pereira.github.io/hello-letusupgrade
+favicon: /-/s23pereira.github.io/hello-letusupgrade/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/midnight-rush as theme
 -- fastn.dependency: fastn-community.github.io/midnight-rush-cs as cs
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography as typo
 
--- fastn.auto-import: __user_name__.github.io/__repo_name__/FASTN/ws
--- fastn.auto-import: __user_name__.github.io/__repo_name__/assets
+-- fastn.auto-import: s23pereira.github.io/hello-letusupgrade/FASTN/ws
+-- fastn.auto-import: s23pereira.github.io/hello-letusupgrade/assets
 -- fastn.auto-import: theme
 -- fastn.auto-import: theme/common
 
